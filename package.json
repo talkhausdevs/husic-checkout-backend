@@ -1,3 +1,4 @@
+
 {
   "name": "husic-checkout-backend",
   "type": "module",
@@ -9,6 +10,6 @@
   "dependencies": {
     "express": "^4.18.2",
     "cors": "^2.8.5",
-    "stripe": "^11.21.0"
+    "stripe": "^11.19.0"
   }
 }
